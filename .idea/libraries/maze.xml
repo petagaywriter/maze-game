@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="maze">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/pkgfinal/maze.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
